@@ -8,7 +8,7 @@ Kumpulan Link Belajar Python:
 - https://www.codesansar.com/python-programming-examples
 - https://www.codesansar.com/numerical-methods/
 
-2.w3schools
+2. w3schools
 - https://www.w3schools.com/python/default.asp
 
 3. https://mkaz.blog/code/python-string-format-cookbook/
